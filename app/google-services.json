@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "917237076263",
+    "project_id": "chatappenc",
+    "storage_bucket": "chatappenc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917237076263:android:563d509bb58a1e25469902",
+        "android_client_info": {
+          "package_name": "com.example.chatappenc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917237076263-1186cd64iepvfjmkiqvtq5gmofd8h5jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatappenc",
+            "certificate_hash": "4aa0f765b9adb6d722afa2bd5a45b916c0136fc7"
+          }
+        },
+        {
+          "client_id": "917237076263-f3rkgama45ttsfqlkbei2f2h1copnhbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_L2FqNBURjoFirNlKYUn643am-u5AgLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917237076263-f3rkgama45ttsfqlkbei2f2h1copnhbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
